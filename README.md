@@ -8,6 +8,6 @@
 + zaspokojenie głodu
 
 ## Specyfikacja:
-[Dysk google]https://docs.google.com/document/d/1leKsiAFoEqqSoBuFQ-jD4u1dZcyqYBh5/edit?rtpof=true&sd=true)
+[Dysk google](https://docs.google.com/document/d/1leKsiAFoEqqSoBuFQ-jD4u1dZcyqYBh5/edit?rtpof=true&sd=true)
 
 
